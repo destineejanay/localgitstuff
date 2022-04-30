@@ -9,3 +9,5 @@ def function():
 
 def my_function():
     return 'hi'
+
+print('hi')
